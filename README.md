@@ -23,10 +23,8 @@ This is a simple, elegant resume created using HTML and CSS. It is designed to b
 
 ## ScreenShots
 
-![image](https://github.com/user-attachments/assets/71bb105f-65f0-4cbf-b27b-b9b98e3a5cbd)
-
-![image](https://github.com/user-attachments/assets/3d0e2b91-ac7e-4eb0-afca-79832bf88582)
-
+![image](https://github.com/user-attachments/assets/12a3cda5-ae52-44a1-9fa2-a4453730828d)
+![image](https://github.com/user-attachments/assets/42082664-2aca-4a6d-b682-6876c7b57b68)
 
 
 ## Installation
